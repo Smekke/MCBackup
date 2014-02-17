@@ -1,0 +1,12 @@
+C:\Users\Cookiezzz\documents\visual studio 2010\Projects\MCBackup\MCBackup\bin\Release\MCBackup.exe
+C:\Users\Cookiezzz\documents\visual studio 2010\Projects\MCBackup\MCBackup\bin\Release\MCBackup.pdb
+C:\Users\Cookiezzz\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Release\MCBackup.Properties.Resources.resources
+C:\Users\Cookiezzz\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Release\MCBackup.exe
+C:\Users\Cookiezzz\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Release\MCBackup.pdb
+C:\Users\Cookiezzz\documents\visual studio 2010\Projects\MCBackup\MCBackup\bin\Release\MCBackup.exe.config
+C:\Users\Cookiezzz\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Release\MCBackup.BackupForm.resources
+C:\Users\Cookiezzz\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Release\MCBackup.SettingsForm.resources
+C:\Users\Cookiezzz\documents\visual studio 2010\Projects\MCBackup\MCBackup\obj\x86\Release\MCBackup.StartForm.resources
+C:\Users\Cookiezzz\Documents\Visual Studio 2010\Projects\MCBackup\MCBackup\obj\x86\Release\MCBackup.RestoreForm.resources
+C:\Users\Cookiezzz\Documents\Visual Studio 2010\Projects\MCBackup\MCBackup\obj\x86\Release\MCBackup.csprojResolveAssemblyReference.cache
+C:\Users\Cookiezzz\Documents\Visual Studio 2010\Projects\MCBackup\MCBackup\obj\x86\Release\MCBackup.csproj.GenerateResource.Cache
