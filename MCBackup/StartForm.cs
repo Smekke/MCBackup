@@ -1,5 +1,5 @@
 ﻿/// MC Backup v1.0
-/// Created by Cookiezzz
+/// Created by Smekke
 ///
 /// 
 using System;
